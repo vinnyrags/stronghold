@@ -1,0 +1,7 @@
+{
+  "name": "vinnyrags/stronghold",
+  "type": "wordpress-muplugin",
+  "require": {
+    "php": ">=8.2"
+  }
+}
